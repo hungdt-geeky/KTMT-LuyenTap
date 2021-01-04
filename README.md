@@ -3,7 +3,7 @@ Các bài tập lập trình môn học kiến trúc máy tính (HUS)
 
 # Đề bài:
 
-:heavy_check_mark: Bài 1: Blinking Leg. Đèn sáng (BT1), Đèn tối (BT2), Sáng - Tối - Sáng - Tối - Sáng mãi (BT3) <br>
+:heavy_check_mark: Bài 1: Blinking Led. Đèn sáng (BT1), Đèn tối (BT2), Sáng - Tối - Sáng - Tối - Sáng mãi (BT3) <br>
 
 :heavy_check_mark: Bài 2: Chạy CẢ DÒNG chữ "Hello-world" từ trái qua phải (BT1), phải qua trái (BT2), xóa màn hình (BT3) <br>
 

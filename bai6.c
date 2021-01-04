@@ -5,6 +5,7 @@
 #include <stdio.h>
 unsigned int gia_tri_adc;
 #define ADC_VREF_TYPE ((0<<REFS1) | (0<<REFS0) | (0<<ADLAR)) // chú ý ADLAR=0 dùng cho 10bit và ADLAR=1 dùng cho 8bit.
+// ADLAR là bit sắp xếp 2 thanh ghi ADCH và ADCL, do bộ chuyển đổi ADC là 10bit nên ta phải có 2 thanh ghi 8bit để lưu giá trị chuyển đổi
 
 char buffer[32];
 void updateLCD(int c) {

@@ -13,6 +13,6 @@ Các bài tập lập trình môn học kiến trúc máy tính (HUS)
 
 :heavy_check_mark: Bài 5: Điều khiển góc quay của sevor <br>
 
-:heavy_check_mark: Bài 6: Đọc giá trị ADC, cảm biến ánh sáng, ( gưỡng sáng 600 ) <br>
+:heavy_check_mark: Bài 6: Đọc giá trị ADC, cảm biến ánh sáng, ( gưỡng sáng 600 ), đọc thêm về ADC ở https://github.com/damhung0113/KTMT-LuyenTap/issues/2 <br>
 
 :heavy_check_mark: Bài 7: Viết chương trình đọc cảm biến nhiệt độ DHT11 và hiện thông số nhiệt độ, độ ẩm lên màn hình
